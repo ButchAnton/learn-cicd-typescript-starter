@@ -13,9 +13,9 @@
     "test": "vitest --run"
   },
   "devDependencies": {
-    "@types/cors": "^2.8.17",
-    "@types/express": "^5.0.0",
-    "@types/node": "^22.9.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.9.2",
     "@vitest/coverage-v8": "^4.0.5",
     "drizzle-kit": "^0.28.1",
     "globals": "^15.12.0",
